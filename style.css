@@ -486,15 +486,13 @@ ul{
     padding-top: 5vw;
     font-family:  'Merriweather Sans', sans-serif;
     font-size: 1.5rem;
-    margin-left: -8vw;
 }
 .footer-menu{
     padding-top: 2vw;
     align-self: center;
-    margin-left: 14vw;
+    margin-left: 23vw;
 }
 .footer-icons{
-    margin-left: -8vw;
     margin-top: -2vw;
     text-align: center;
     padding-bottom: 2vw;
